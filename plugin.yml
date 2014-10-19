@@ -1,0 +1,9 @@
+name: SmiteWars
+main: com.phase.SmiteWars.main.SmiteWars
+version: v1
+description: A great game!
+commands:
+  sm:
+    description: Main command!
+  leave:
+    description: Leaves the game!
